@@ -1,5 +1,10 @@
 ## Architect that code 👋
 
+A collective of developers, architects, and engineers who are passionate about building and sharing open-source software to make work easier.
+
+
+Ask me to do something once, I do it by hand, Ask me twice we think about automating, Ask me again and it gets scripted.
+
 <!--
 
 **Here are some ideas to get you started:**
